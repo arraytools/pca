@@ -18,6 +18,8 @@ $ python3 vcf_to_matrix.py  # generate matrix.csv
 ```
 
 
+Download "igsr_populations.tsv" from http://www.internationalgenome.org/data-portal/population. Click the button "Download the list". 
+
 There are no graph ouput if we run the python code from the terminal.
 ```
 $ nano pca_on_genotypes_used_in_video.py # delete "learning_rate='auto' "
